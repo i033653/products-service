@@ -1,0 +1,41 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Run products-service",
+      "type": "java",
+      "request": "launch",
+      "mainClass": "com.sap.teched.cap.productsservice.Application",
+      "projectName": "products-service",
+      "preLaunchTask": "Build products-service",
+      "env": {
+        "exec.java.build": "true",
+        "run.config": "{\"handlerId\":\"cap_run_config_handler_id\",\"runnableId\":\"c:\\\\Users\\\\i065595\\\\OneDrive - SAP SE\\\\Documents\\\\CAP-JAVA-TECHED\\\\products-service\"}"
+      }
+    },
+    {
+      "name": "Run products-service",
+      "type": "java",
+      "request": "launch",
+      "mainClass": "com.sap.teched.cap.productsservice.Application",
+      "projectName": "products-service",
+      "preLaunchTask": "Build products-service",
+      "env": {
+        "exec.java.build": "true",
+        "run.config": "{\"handlerId\":\"cap_run_config_handler_id\",\"runnableId\":\"c:\\\\Users\\\\i065595\\\\OneDrive - SAP SE\\\\Documents\\\\CAP-JAVA-TECHED\\\\products-service\"}"
+      }
+    },
+    {
+      "name": "Run products-service",
+      "type": "java",
+      "request": "launch",
+      "mainClass": "com.sap.teched.cap.productsservice.Application",
+      "projectName": "products-service",
+      "preLaunchTask": "Build products-service",
+      "env": {
+        "exec.java.build": "true",
+        "run.config": "{\"handlerId\":\"cap_run_config_handler_id\",\"runnableId\":\"c:\\\\Users\\\\i065595\\\\OneDrive - SAP SE\\\\Documents\\\\CAP-JAVA-TECHED\\\\products-service\"}"
+      }
+    }
+  ]
+}

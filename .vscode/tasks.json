@@ -1,0 +1,13 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Build products-service",
+      "type": "shell",
+      "command": "mvn clean install",
+      "options": {
+        "cwd": "c:\\Users\\i065595\\OneDrive - SAP SE\\Documents\\CAP-JAVA-TECHED\\products-service"
+      }
+    }
+  ]
+}
