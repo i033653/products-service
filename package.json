@@ -10,7 +10,7 @@
         "deploy": "cds deploy"
     },
     "devDependencies": {
-        "@sap/cds": "^3.0.0"
+        "@sap/cds": "^4.0.0"
     },
     "cds": {
         "build": {
